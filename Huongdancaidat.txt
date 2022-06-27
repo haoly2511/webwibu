@@ -1,0 +1,8 @@
+- chạy xampp
+- tạo trong phpadmin database: web
+- import file web.sql vào database
+
+trang frontend: localhost/DoAnHTTTDN
+
+trang backend: localhost/DoAnHTTTDN/Admin
+
